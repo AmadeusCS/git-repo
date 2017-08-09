@@ -1,4 +1,4 @@
-void
+string
 int 
 print
 =
@@ -11,3 +11,4 @@ int
 print
 =
 print("result3")
+return
