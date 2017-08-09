@@ -3,3 +3,7 @@ int
 print
 =
 print("result")
+int 
+print
+=
+print("result2")
