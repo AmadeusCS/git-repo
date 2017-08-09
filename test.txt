@@ -1,0 +1,14 @@
+string
+int 
+print
+=
+print("result")
+int 
+print
+=
+print("result2")
+int 
+print
+=
+print("result3")
+return
