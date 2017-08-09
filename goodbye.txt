@@ -1,3 +1,5 @@
 print("Goodbye my world!++")
 print("Goodbye++")
 print("my world!++")
+print("by by++")
+print("Goodbye my freand++")
